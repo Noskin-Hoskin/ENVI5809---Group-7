@@ -1,6 +1,7 @@
 # ENVI5809
 A big flood
 
+Now sure what your thoughts are for the structure of it buta suggestion -Maybe add a fourth one to link stuff together at the end to compare flood events? Not sure... 
 
 Repository structure: 
 - 1 notebook per section/research question? E.g.: 
