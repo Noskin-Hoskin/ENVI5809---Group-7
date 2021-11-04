@@ -1,12 +1,14 @@
-# ENVI5809
-A big flood
+# Assessing the spatio-temporal variability of ocean chemistry changes along flood plumes from the Burdekin River 
 
-- I've uploaded a copy of th file I used to create my master sheet and just uploaded the final doc rather than all the individual ones used to make it. I doubt I'll include the whole process of how I made the master sheet but I can check with tristan if we need to include how we went from the raw data. 
+This study aims to assess the spatial and temporal variability of AIMS eReefs hydrodynamic and biogeochemical parameters of water quality relevant to coral health before, during, and after a flood plume event originating from the Burdekin River catchment.
 
-Now sure what your thoughts are for the structure of it buta suggestion -Maybe add a fourth one to link stuff together at the end to compare flood events? Not sure... 
+The analysis process has been undertaken in 3 parts:
+1. Assessing the long term temporal variability of salinity, pH, aragonite saturation state & coral symbiont chlorophyll, in order to identify major peaks/troughs associated with flood event.
+2. Creating passive tracing maps to track the development of selected parameters alongside the spatial and temporal progression of the 2019 flood event.
+3. Quantitative assesment of the interactions between variables at selected reef sites during the 2019 flood event.
 
-Repository structure: 
-- 1 notebook per section/research question? E.g.: 
-- When are the major flood events? Plot longer time series (from presentation). For each flood event, basic analysis of how each parameter changes over the month period. 
-- Correlations and how different parameters relate to one another 
-- How th flood moves through space (particle tracing) 
+Datasets required:
+Australian Institute of Marine Science (2019) Aims eReefs daily-monthly hydrodynamic mode, accessed for 2019/01 - 2019/04. 
+http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/gbr4_v2/daily-monthly/EREEFS_AIMS-CSIRO_gbr4_v2_hydro_daily-monthly-2019-02.nc
+Australian Institute of Marine Science (2019) Aims eReefs daily-monthly biogeochemical model, accessed for 2019/01 - 2019/04. 
+http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd/daily-monthly/EREEFS_AIMS-CSIRO_GBR4_H2p0_B3p1_Cq3b_Dhnd_bgc_daily-monthly-2019-02.nc
