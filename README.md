@@ -7,8 +7,11 @@ The analysis process has been undertaken in 3 parts:
 2. Creating passive tracing maps to track the development of selected parameters alongside the spatial and temporal progression of the 2019 flood event.
 3. Quantitative assesment of the interactions between variables at selected reef sites during the 2019 flood event.
 
+
 Datasets required:
+
 Australian Institute of Marine Science (2019) Aims eReefs daily-monthly hydrodynamic mode, accessed for 2019/01 - 2019/04. 
 http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/gbr4_v2/daily-monthly/EREEFS_AIMS-CSIRO_gbr4_v2_hydro_daily-monthly-2019-02.nc
+
 Australian Institute of Marine Science (2019) Aims eReefs daily-monthly biogeochemical model, accessed for 2019/01 - 2019/04. 
 http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd/daily-monthly/EREEFS_AIMS-CSIRO_GBR4_H2p0_B3p1_Cq3b_Dhnd_bgc_daily-monthly-2019-02.nc
