@@ -14,10 +14,12 @@ The analysis process has been undertaken in 3 parts:
 eReefs hydrodynamic and biogeochemical models. Info on the catalog through the following link:
 https://thredds.ereefs.aims.gov.au/thredds/s3catalogue/aims-ereefs-public-prod/derived/ncaggregate/ereefs/catalog.html
 
-
+Hydrodynamic model extracted via:. https://extraction.ereefs.aims.gov.au/data/2110.5a027fa
+Biogeochemical model extracted via: . https://extraction.ereefs.aims.gov.au/data/2110.d7c4eb3
 
 Australian Institute of Marine Science (2019) Aims eReefs daily-monthly hydrodynamic mode, accessed for 2019/01 - 2019/04. 
 http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/gbr4_v2/daily-monthly/EREEFS_AIMS-CSIRO_gbr4_v2_hydro_daily-monthly-2019-02.nc
 
 Australian Institute of Marine Science (2019) Aims eReefs daily-monthly biogeochemical baseline model, accessed for 2019/01 - 2019/04. 
 http://thredds.ereefs.aims.gov.au/thredds/dodsC/s3://aims-ereefs-public-prod/derived/ncaggregate/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd/daily-monthly/EREEFS_AIMS-CSIRO_GBR4_H2p0_B3p1_Cq3b_Dhnd_bgc_daily-monthly-2019-02.nc
+
